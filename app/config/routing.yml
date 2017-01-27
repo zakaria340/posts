@@ -1,0 +1,4 @@
+posts:
+    resource: "@PostsBundle/Controller/"
+    type:     annotation
+    prefix:   /
